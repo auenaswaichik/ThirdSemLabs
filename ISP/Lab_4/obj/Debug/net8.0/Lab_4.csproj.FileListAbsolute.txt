@@ -1,0 +1,14 @@
+/home/ilia/Desktop/dotnetLabs/Lab_4/bin/Debug/net8.0/Lab_4
+/home/ilia/Desktop/dotnetLabs/Lab_4/bin/Debug/net8.0/Lab_4.deps.json
+/home/ilia/Desktop/dotnetLabs/Lab_4/bin/Debug/net8.0/Lab_4.runtimeconfig.json
+/home/ilia/Desktop/dotnetLabs/Lab_4/bin/Debug/net8.0/Lab_4.dll
+/home/ilia/Desktop/dotnetLabs/Lab_4/bin/Debug/net8.0/Lab_4.pdb
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/Lab_4.AssemblyInfoInputs.cache
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/Lab_4.AssemblyInfo.cs
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/Lab_4.csproj.CoreCompileInputs.cache
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/Lab_4.dll
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/refint/Lab_4.dll
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/Lab_4.pdb
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/Lab_4.genruntimeconfig.cache
+/home/ilia/Desktop/dotnetLabs/Lab_4/obj/Debug/net8.0/ref/Lab_4.dll

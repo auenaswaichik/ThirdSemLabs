@@ -1,0 +1,15 @@
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/bin/Debug/net8.0/Hospital.Domain.deps.json
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/bin/Debug/net8.0/Hospital.Domain.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/bin/Debug/net8.0/Hospital.Domain.pdb
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.AssemblyInfoInputs.cache
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.AssemblyInfo.cs
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.csproj.CoreCompileInputs.cache
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/refint/Hospital.Domain.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.pdb
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/ref/Hospital.Domain.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/bin/Debug/net8.0/Hospital.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/bin/Debug/net8.0/Hospital.pdb
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.csproj.AssemblyReference.cache
+/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/obj/Debug/net8.0/Hospital.Domain.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWy9q8wKJl3AfCOpGEqPamnW9WLtVIEkChgEUqp1li6Zii11pTE6ADPlnExFNvu2srRDNZjkblItab0VmVU6cA==",
+  "success": true,
+  "projectFilePath": "/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/SerializerLib.csproj",
+  "expectedPackageFiles": [
+    "/home/ilia/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

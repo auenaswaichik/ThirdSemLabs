@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Hospital/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Hospital.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hospital.dll": {}
+        }
+      },
+      "Hospital.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Hospital": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Hospital.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hospital.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hospital/1.0.0": {
+      "type": "project",
+      "path": "../Hospital/Hospital.csproj",
+      "msbuildProject": "../Hospital/Hospital.csproj"
+    },
+    "Hospital.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Hospital.Domain/Hospital.Domain.csproj",
+      "msbuildProject": "../Hospital.Domain/Hospital.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Hospital.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/ilia/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/SerializerLib.csproj",
+      "projectName": "SerializerLib",
+      "projectPath": "/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/SerializerLib.csproj",
+      "packagesPath": "/home/ilia/.nuget/packages/",
+      "outputPath": "/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ilia/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/Hospital.Domain.csproj": {
+              "projectPath": "/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital.Domain/Hospital.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.7, 8.0.7]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

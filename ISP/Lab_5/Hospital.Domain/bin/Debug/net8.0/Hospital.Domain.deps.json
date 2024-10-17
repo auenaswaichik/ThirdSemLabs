@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hospital.Domain/1.0.0": {
+        "dependencies": {
+          "Hospital": "1.0.0"
+        },
+        "runtime": {
+          "Hospital.Domain.dll": {}
+        }
+      },
+      "Hospital/1.0.0": {
+        "runtime": {
+          "Hospital.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hospital.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hospital/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

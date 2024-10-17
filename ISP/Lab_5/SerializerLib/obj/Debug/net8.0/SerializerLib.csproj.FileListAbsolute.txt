@@ -1,0 +1,17 @@
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/bin/Debug/net8.0/SerializerLib.deps.json
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/bin/Debug/net8.0/SerializerLib.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/bin/Debug/net8.0/SerializerLib.pdb
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/bin/Debug/net8.0/Hospital.Domain.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/bin/Debug/net8.0/Hospital.Domain.pdb
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/SerializerLib.csproj.AssemblyReference.cache
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/SerializerLib.AssemblyInfoInputs.cache
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/SerializerLib.AssemblyInfo.cs
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/SerializerLib.csproj.CoreCompileInputs.cache
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/SerializerLib.csproj.CopyComplete
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/SerializerLib.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/refint/SerializerLib.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/SerializerLib.pdb
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/obj/Debug/net8.0/ref/SerializerLib.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/bin/Debug/net8.0/Hospital.dll
+/home/ilia/Desktop/dotnetLabs/Lab_5/SerializerLib/bin/Debug/net8.0/Hospital.pdb

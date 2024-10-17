@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4z9hZl7ir8m2zfJZv9JKAxq6324F7XcsIpYmXrBrRLiOI2Xq5fSWUT2wukxn+te11+lAdk5bkW82+y+O6kfaiQ==",
+  "success": true,
+  "projectFilePath": "/home/ilia/Desktop/dotnetLabs/Lab_5/MySolution/MySolution.csproj",
+  "expectedPackageFiles": [
+    "/home/ilia/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

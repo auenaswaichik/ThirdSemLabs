@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R7aLW20wSbSbIMjs1apjyVFC5uXG/CBT7KoISb4+n1xWqSjEuXVgEYcesqBeQK/2VFVVcVLCxvvsN1dJxSHGTw==",
+  "success": true,
+  "projectFilePath": "/home/ilia/Desktop/dotnetLabs/Lab_5/Hospital/Hospital.csproj",
+  "expectedPackageFiles": [
+    "/home/ilia/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
